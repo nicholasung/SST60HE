@@ -1,7 +1,10 @@
 # SST60
 
-## Hotswap
-Looking for hotswap? See [here](https://github.com/dededecline/SST60/tree/main/Hotswap)
+## Changes
+Added Hall effects under WASD for Gateron KS20
+Removed the Hotswap diredctory as the solder is to keep consistent pcb and switch spacing
+
+Cuurently only removed directories and updated the kicad
 
 ## Fully open source multi-layout 60% PCB
 ![Render1](https://github.com/dededecline/SST60/blob/main/Images/Render-Top.png)
