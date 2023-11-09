@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -134,7 +134,6 @@
       "SD1",
       "+1V1",
       "+3V3",
-      "Net-(MX1-Pad3)",
       "Net-(MX3-Pad3)",
       "col13",
       "col14",
@@ -203,7 +202,7 @@
       35,
       36
     ],
-    "visible_layers": "0001000_ffffffff",
+    "visible_layers": "fffffff_fffffffe",
     "zone_display_mode": 0
   },
   "meta": {
